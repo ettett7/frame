@@ -1,0 +1,58 @@
+{
+ "whoosh": {
+  "file": "whoosh.wav",
+  "peakAt": 0.203,
+  "seconds": 0.35,
+  "peakDBFS": -12.0,
+  "centroidHz": 2251
+ },
+ "pop": {
+  "file": "pop.wav",
+  "peakAt": 0.007,
+  "seconds": 0.12,
+  "peakDBFS": -12.0,
+  "centroidHz": 330
+ },
+ "boom": {
+  "file": "boom.wav",
+  "peakAt": 0.073,
+  "seconds": 0.9,
+  "peakDBFS": -12.0,
+  "centroidHz": 39
+ },
+ "riser": {
+  "file": "riser.wav",
+  "peakAt": 0.729,
+  "seconds": 0.8,
+  "peakDBFS": -12.0,
+  "centroidHz": 1110
+ },
+ "ding": {
+  "file": "ding.wav",
+  "peakAt": 0.019,
+  "seconds": 0.9,
+  "peakDBFS": -12.0,
+  "centroidHz": 1187
+ },
+ "tada": {
+  "file": "tada.wav",
+  "peakAt": 0.292,
+  "seconds": 0.85,
+  "peakDBFS": -12.0,
+  "centroidHz": 993
+ },
+ "swish": {
+  "file": "swish.wav",
+  "peakAt": 0.145,
+  "seconds": 0.28,
+  "peakDBFS": -12.0,
+  "centroidHz": 2871
+ },
+ "hit": {
+  "file": "hit.wav",
+  "peakAt": 1.008,
+  "seconds": 1.2,
+  "peakDBFS": -12.0,
+  "centroidHz": 3068
+ }
+}

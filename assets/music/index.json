@@ -1,0 +1,62 @@
+{
+ "ambient": {
+  "id": "ambient",
+  "name": "אווירה רגועה",
+  "file": "ambient.m4a",
+  "seconds": 64.0,
+  "loopStart": 0.1,
+  "samples": 3072000,
+  "bpm": null,
+  "beatOffset": 0.0,
+  "lufs": -20.1,
+  "truePeak": -8.4
+ },
+ "lofi": {
+  "id": "lofi",
+  "name": "לואו-פיי",
+  "file": "lofi.m4a",
+  "seconds": 72.0,
+  "loopStart": 0.1,
+  "samples": 3456000,
+  "bpm": 80,
+  "beatOffset": 0.0,
+  "lufs": -20.0,
+  "truePeak": -7.8
+ },
+ "drive": {
+  "id": "drive",
+  "name": "אנרגטי",
+  "file": "drive.m4a",
+  "seconds": 69.818,
+  "loopStart": 0.1,
+  "samples": 3351273,
+  "bpm": 110,
+  "beatOffset": 0.0,
+  "lufs": -20.0,
+  "truePeak": -11.5
+ },
+ "playful": {
+  "id": "playful",
+  "name": "שובב",
+  "file": "playful.m4a",
+  "seconds": 76.8,
+  "loopStart": 0.1,
+  "samples": 3686400,
+  "bpm": 100,
+  "beatOffset": 0.0,
+  "lufs": -20.0,
+  "truePeak": -3.5
+ },
+ "epic": {
+  "id": "epic",
+  "name": "אפי",
+  "file": "epic.m4a",
+  "seconds": 85.333,
+  "loopStart": 0.1,
+  "samples": 4096000,
+  "bpm": 90,
+  "beatOffset": 0.0,
+  "lufs": -20.0,
+  "truePeak": -5.3
+ }
+}

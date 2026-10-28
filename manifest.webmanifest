@@ -1,0 +1,25 @@
+{
+  "name": "FRAME לטלפון",
+  "short_name": "FRAME",
+  "description": "עריכה חכמה של קליפים, ישר בטלפון. הכול נערך על המכשיר שלכם.",
+  "lang": "he",
+  "dir": "rtl",
+  "id": "./",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#0d100f",
+  "theme_color": "#0d100f",
+  "categories": ["video", "productivity", "photo"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/frame-mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "הקליפים שלי", "short_name": "הקליפים", "url": "./?tab=library", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" }] }
+  ]
+}
